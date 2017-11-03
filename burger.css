@@ -1,0 +1,24 @@
+
+@media(max-width: 900px){
+	body
+	}
+
+	body{
+		margin:  80px;
+
+		/*margin:  auto */
+	}
+
+.row {
+	background-color: rgba(0, 100, 255, 0.34);
+
+}
+
+.thumbnail{
+
+	
+}
+
+.col-md-4 {
+	padding-top: 20px;
+}
